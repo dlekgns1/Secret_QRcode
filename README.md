@@ -8,7 +8,7 @@
 
 QR코드 만드는 원리을 알아보고 한번 나만의 QR코드를 만들어보자!
 
-![img](https://user-images.githubusercontent.com/44853425/49075879-14e12a00-f27b-11e8-8476-a18990085a3c.png)
+![f](https://user-images.githubusercontent.com/44853425/49500073-1e8a1380-f8b3-11e8-9038-251d74f44180.jpg)
 
 ## Project Long-Term Plan
 
